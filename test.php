@@ -1,7 +1,6 @@
 <?php
 // test.php
 // This page requires set_inc.php and logout_inc.php
-// comment
 
 session_start();
 define('THIS_PAGE',basename($_SERVER['PHP_SELF']));
