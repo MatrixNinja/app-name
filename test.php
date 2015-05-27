@@ -6,7 +6,7 @@ session_start();
 define('THIS_PAGE',basename($_SERVER['PHP_SELF']));
 //Bring the session variables from the session set page
 $_SESSION['key'];
-//this was added by alex for testing fool. mr t
+
 // Login Form
 $form = '
 		<form action="' . THIS_PAGE . '" method="post">
