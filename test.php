@@ -1,5 +1,5 @@
 <?php
-// password_inc.php
+// test.php
 // This page requires set_inc.php and logout_inc.php
 
 session_start();
